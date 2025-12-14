@@ -21,4 +21,4 @@ Automated login functionality of OrangeHRM demo application using Selenium WebDr
 ## How to Run
 1. Clone the repository
 2. Open the project in Eclipse
-3. Run OrangeHRMLoginTest.java as Java Application
+3. Run LoginTest.java as Java Application
